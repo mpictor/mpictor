@@ -9,3 +9,7 @@ While I am looking for employment opportunities, I have been remote since severa
 
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=mpictor) -->
+
+### Contact
+
+Contact me `@` `gmail` or [on linkedin](https://www.linkedin.com/in/mark-pictor-b0b581138/)
